@@ -1,6 +1,6 @@
 # NBA Prediction Project
 
-Machine-learning exploration for COMP721 focused on the 2004–2005 Basketball Reference snapshot (`databasebasketball/`). We identify outstanding players via robust outlier detection and build models that estimate game outcomes between any two teams based on season-level statistics. All analysis runs locally; no external data downloads are required.
+Machine-learning exploration for COMP721 focused on the 2004-2005 Basketball Reference snapshot (`databasebasketball/`). We identify outstanding players via robust outlier detection and build models that estimate game outcomes between any two teams based on season-level statistics. All analysis runs locally; no external data downloads are required.
 
 ## Repository Layout
 
