@@ -1,0 +1,13 @@
+# Python and Jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+
+# Local reports (intentionally excluded from version control)
+report_draft.docx
+report_draft - 2.docx
+# Office temp files
+~$*
+~WRL*.tmp

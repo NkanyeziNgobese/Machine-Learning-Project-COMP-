@@ -1,0 +1,4 @@
+season,team_a,team_b,classifier_base_proba,classifier_simulated_win_prob,classifier_sim_std,classifier_n_sim,regressor_base_point_diff,regressor_expected_margin,regressor_simulated_win_prob,regressor_n_sim
+1991,Charlotte Hornets,Utah Jazz,0.0,0.01975904805107927,0.029512893623966387,5000,-10.292682926829277,-10.03190393878751,0.16,5000
+2001,Orlando Magic,Chicago Bulls,1.0,0.9809695745316458,0.028408572024919112,5000,10.109756097560924,10.34704593452998,0.8484,5000
+2004,Portland Trailblazers,Dallas Mavericks,0.0,0.019689106422117585,0.02895681048569065,5000,-9.74390243902436,-9.627251131619143,0.1728,5000
