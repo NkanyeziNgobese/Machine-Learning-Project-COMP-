@@ -10,24 +10,7 @@ Machine-learning exploration for COMP721 focused on the 2004–2005 Basketball R
 - `figures/` & `tables/`: auto-generated outputs saved by the notebooks (PNG plots, CSV/Markdown tables).
 - `requirements.txt`: Python dependencies.
 
-## Environment Setup
 
-1. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv .venv
-   # Windows
-   .venv\Scripts\activate
-   # macOS/Linux
-   source .venv/bin/activate
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Launch Jupyter for interactive work:
-   ```bash
-   jupyter notebook
-   ```
 
 ## Running the Project
 
