@@ -23,7 +23,7 @@ Machine-learning exploration for COMP721 focused on the 2004-2005 Basketball Ref
 3. **Results Summary**  
    Execute `notebooks/03_results_summary.ipynb` to pull saved tables/plots into report-ready summaries and narratives.
 
-4. **Additional Extensions outside of project scope**
+4. **Additional Extensions outside of project scope**  
    Addons notebooks under `notebooks/addons` for exploratory and indulgence purposes.
 
 All notebooks include a "Dependencies" and "How to run notebook" section for reproducibility. For scripted experimentation, import the utilities directly, e.g.:
