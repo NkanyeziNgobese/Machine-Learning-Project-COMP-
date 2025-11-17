@@ -23,7 +23,7 @@ Machine-learning exploration for COMP721 focused on the 2004-2005 Basketball Ref
 3. **Results Summary**  
    Execute `notebooks/03_results_summary.ipynb` to pull saved tables/plots into report-ready summaries and narratives.
 
-All notebooks include a “Dependencies” and “How to run” section for reproducibility. For scripted experimentation, import the utilities directly, e.g.:
+All notebooks include a "Dependencies" and "How to run notebook" section for reproducibility. For scripted experimentation, import the utilities directly, e.g.:
 
 ```python
 from src.data_loading import load_team_season, load_teams
